@@ -33,5 +33,20 @@ The application differs from most typing tests that are carried out online in th
    - random – for generating test sentences
 
 
+## How to Run the Code
+- Install Python 3.x
+- Check installation using python --version
+- Clone the repository using git clone <repo-link>
+- Navigate to the project folder using cd <folder-name>
+- Run the script using python filename.py
+- Type the displayed sentence in the terminal
+- Press Enter after typing
+- View results (Time, WPM, Accuracy) in the console
+
+ ## Requirements
+- Python 3.x
+- No external libraries required
+
+
 
 A simple and efficient Python CLI tool that accurately measures typing speed and accuracy while strengthening fundamental programming skills.
