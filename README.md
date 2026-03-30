@@ -31,5 +31,7 @@ The application differs from most typing tests that are carried out online in th
 - Built-in modules:
    - time – for measuring execution time
    - random – for generating test sentences
- 
-  A simple and efficient Python CLI tool that accurately measures typing speed and accuracy while strengthening fundamental programming skills.
+
+
+
+A simple and efficient Python CLI tool that accurately measures typing speed and accuracy while strengthening fundamental programming skills.
